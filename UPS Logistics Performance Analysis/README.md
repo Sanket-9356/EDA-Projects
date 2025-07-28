@@ -91,5 +91,4 @@ Example visuals include:
 
 ---
 
-## 📎 Folder Structure
 
